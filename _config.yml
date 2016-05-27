@@ -1,0 +1,12 @@
+# Site settings
+title: Hello World
+email: jobi@lastplot.com
+description: > # this means to ignore newlines until "baseurl:"
+ This is a Hello World sample website
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://lastplot.com" # the base hostname & protocol for your site
+twitter_username: jobi_k
+github_username:  jobikjohn
+
+# Build settings
+markdown: kramdown
